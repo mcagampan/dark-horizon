@@ -1,0 +1,21 @@
+{
+    "name": "dark-horizon",
+    "displayName": "Dark Horizon",
+    "description": "A darker version of Horizon Theme (by jolaleye) plus some other color customizations.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Horizon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Horizon-color-theme.json"
+            }
+        ]
+    }
+}
