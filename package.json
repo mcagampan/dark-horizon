@@ -1,21 +1,45 @@
 {
-    "name": "dark-horizon",
-    "displayName": "Dark Horizon",
-    "description": "A darker version of Horizon Theme (by jolaleye) plus some other color customizations.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.49.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dark Horizon",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark Horizon-color-theme.json"
-            }
-        ]
-    }
+  "name": "dark-horizon",
+  "displayName": "Dark Horizon",
+  "description": "A darker version of Horizon Theme (by jolaleye) plus some other color customizations.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcagampan/dark-horizon"
+  },
+  "bugs": {
+    "url": "https://github.com/mcagampan/dark-horizon/issues"
+  },
+  "galleryBanner": {
+    "color": "#0e0e0e",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "dark theme",
+    "horizon",
+    "horizon theme",
+    "dark horizon",
+    "dark horizon theme",
+    "black",
+    "black theme",
+    "red",
+    "red theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Horizon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Horizon-color-theme.json"
+      }
+    ]
+  }
 }

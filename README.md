@@ -1,13 +1,33 @@
-# README
-## This is the README for your extension "dark-horizon"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Dark Horizon Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Sample screenshots
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+TypeScript/JavaScript
 
-**Enjoy!**
+<p align="center">
+  <img alt="preview" src="https://i.ibb.co/tQC6gFL/Typescript.png"/>
+</p>
+
+HTML
+
+<p align="center">
+  <img alt="preview" src="https://i.ibb.co/88PPRDD/HTML.png">
+</p>
+
+CSS
+
+<p align="center">
+  <img alt="preview" src="https://i.ibb.co/x2MDhXd/CSS.png">
+</p>
+
+JSON
+
+<p align="center">
+  <img alt="preview" src="https://i.ibb.co/XDT3RPH/JSON.png">
+</p>
+
+---
+
+## Font
+
+The font that I used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
