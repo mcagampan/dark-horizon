@@ -3,6 +3,8 @@
   "displayName": "Dark Horizon",
   "description": "A darker version of Horizon Theme (by jolaleye) plus some other color customizations.",
   "version": "0.0.1",
+  "author": "Michael Cagampan <mcagampan@outlook.com>",
+  "publisher": "mcagampan",
   "engines": {
     "vscode": "^1.49.0"
   },
