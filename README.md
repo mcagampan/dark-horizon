@@ -64,3 +64,15 @@ The font that I used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/
   "editor.minimap.enabled": false,
 }
 ```
+
+---
+
+<br/>
+<br/>
+⭐⭐⭐⭐⭐
+<br/>
+<br/>
+If you enjoy using this theme, please don't forget to rate it 5⭐. Thank you!
+<br/>
+<br/>
+⭐⭐⭐⭐⭐
