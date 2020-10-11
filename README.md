@@ -1,8 +1,14 @@
-# Dark Horizon Theme
+<p style="font-size: 3rem; background: linear-gradient(90deg, rgba(14,14,14,1) 5%, rgba(31,63,63,1) 65%, rgba(70,172,173,1) 81%, rgba(233,86,120,1) 100%);">
+Dark Horizon Theme
+</p>
+
+Originally based on Horizon Theme (by jolaleye).
 
 <br/>
 
-## Sample screenshots
+<p>
+Sample screenshots
+</p>
 
 <br/>
 <br/>
