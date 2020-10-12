@@ -1,19 +1,28 @@
-<p style="font-size: 3rem; background: linear-gradient(90deg, rgba(14,14,14,1) 5%, rgba(31,63,63,1) 65%, rgba(70,172,173,1) 81%, rgba(233,86,120,1) 100%);">
-Dark Horizon Theme
+<h1 align="center">
+  <br>
+  <img src="logo.png" alt="Markdownify" width="100">
+  <br>
+  Dark Horizon Theme
+  <br>
+</h1>
+
+<h4 align="center">Modified Horizon Theme to have a darker background and vibrant foreground colors.</h4>
+
+<p align="center">
+    <img src="https://badgen.net/badge/release/0.2.2/pink"
+         alt="release">
+    <img src="https://badgen.net/badge/downloads/31/cyan" alt="downloads">
+    <a href="https://github.com/mcagampan/dark-horizon">
+      <img src="https://badgen.net/badge/repo/repository/red?icon=github&label">
+    </a>
 </p>
 
-Originally based on Horizon Theme (by jolaleye).
-
-<br/>
-
-<p>
-Sample screenshots
-</p>
-
 <br/>
 <br/>
 
-TypeScript/JavaScript
+## TypeScript/JavaScript
+
+---
 
 <p align="center">
   <img alt="preview" src="https://i.ibb.co/tQC6gFL/Typescript.png"/>
@@ -21,7 +30,9 @@ TypeScript/JavaScript
 
 <br/>
 
-HTML
+## HTML
+
+---
 
 <p align="center">
   <img alt="preview" src="https://i.ibb.co/88PPRDD/HTML.png">
@@ -29,7 +40,9 @@ HTML
 
 <br/>
 
-CSS
+## CSS
+
+---
 
 <p align="center">
   <img alt="preview" src="https://i.ibb.co/x2MDhXd/CSS.png">
@@ -37,24 +50,29 @@ CSS
 
 <br/>
 
-JSON
+## JSON
+
+---
 
 <p align="center">
   <img alt="preview" src="https://i.ibb.co/XDT3RPH/JSON.png">
 </p>
-
----
 
 <br/>
 <br/>
 
 ## Font
 
+---
+
 The font that I used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 <br/>
+<br/>
 
-## Other setting customizations
+## Other settings used
+
+---
 
 ```
 {
@@ -66,19 +84,6 @@ The font that I used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/
   "editor.cursorWidth": 1,
   "editor.cursorBlinking": "smooth",
   "editor.cursorSmoothCaretAnimation": true,
-  "terminal.integrated.cursorBlinking": false,
   "editor.minimap.enabled": false,
 }
 ```
-
----
-
-<br/>
-<br/>
-⭐⭐⭐⭐⭐
-<br/>
-<br/>
-If you enjoy using this theme, please don't forget to rate it 5⭐. Thank you!
-<br/>
-<br/>
-⭐⭐⭐⭐⭐
