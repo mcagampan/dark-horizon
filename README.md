@@ -11,7 +11,7 @@
 <p align="center">
     <img src="https://badgen.net/badge/release/0.2.2/pink"
          alt="release">
-    <img src="https://badgen.net/badge/downloads/31/cyan" alt="downloads">
+    <img src="https://badgen.net/badge/installs/51/cyan" alt="installs">
     <a href="https://github.com/mcagampan/dark-horizon">
       <img src="https://badgen.net/badge/repo/repository/red?icon=github&label">
     </a>
@@ -22,8 +22,6 @@
 
 ## TypeScript/JavaScript
 
----
-
 <p align="center">
   <img alt="preview" src="https://i.ibb.co/tQC6gFL/Typescript.png"/>
 </p>
@@ -31,8 +29,6 @@
 <br/>
 
 ## HTML
-
----
 
 <p align="center">
   <img alt="preview" src="https://i.ibb.co/88PPRDD/HTML.png">
@@ -42,8 +38,6 @@
 
 ## CSS
 
----
-
 <p align="center">
   <img alt="preview" src="https://i.ibb.co/x2MDhXd/CSS.png">
 </p>
@@ -51,8 +45,6 @@
 <br/>
 
 ## JSON
-
----
 
 <p align="center">
   <img alt="preview" src="https://i.ibb.co/XDT3RPH/JSON.png">
@@ -63,16 +55,12 @@
 
 ## Font
 
----
-
 The font that I used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 <br/>
 <br/>
 
 ## Other settings used
-
----
 
 ```
 {
