@@ -9,7 +9,7 @@
 <h4 align="center">Modified Horizon Theme to have a darker background and vibrant foreground colors.</h4>
 
 <p align="center">
-    <img src="https://badgen.net/badge/release/0.2.2/pink"
+    <img src="https://badgen.net/badge/release/0.2.4/pink"
          alt="release">
     <img src="https://badgen.net/badge/installs/66/cyan" alt="installs">
     <a href="https://github.com/mcagampan/dark-horizon">
