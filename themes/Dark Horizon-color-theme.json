@@ -200,6 +200,13 @@
       "settings": { "foreground": "#E95678E6" }
     },
     {
+      "name": "Class name",
+      "scope": ["entity.name.type.class.ts", "entity.name.type.interface.ts"],
+      "settings": {
+        "foreground": "#E0AAFF"
+      }
+    },
+    {
       "name": "Constant",
       "scope": [
         "variable.other.constant.property.ts",

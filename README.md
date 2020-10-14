@@ -11,7 +11,7 @@
 <p align="center">
     <img src="https://badgen.net/badge/release/0.2.2/pink"
          alt="release">
-    <img src="https://badgen.net/badge/installs/51/cyan" alt="installs">
+    <img src="https://badgen.net/badge/installs/66/cyan" alt="installs">
     <a href="https://github.com/mcagampan/dark-horizon">
       <img src="https://badgen.net/badge/repo/repository/red?icon=github&label">
     </a>
