@@ -1,59 +1,51 @@
 <h1 align="center">
   <br>
-  <img src="logo.png" alt="Markdownify" width="100">
+  <img src="logo2.png" alt="Markdownify" width="100">
   <br>
-  Dark Horizon Theme
+  Dark Horizon
   <br>
 </h1>
 
 <p align="center">
-    <img src="https://badgen.net/badge/release/0.2.5/pink"
+    <img src="https://badgen.net/badge/release/0.3.5/white"
          alt="release">
-    <img src="https://badgen.net/badge/installs/125/cyan" alt="installs">
+    <img src="https://badgen.net/badge/installs/246/white" alt="installs">
     <a href="https://github.com/mcagampan/dark-horizon">
-      <img src="https://badgen.net/badge/repo/repository/red?icon=github&label">
+      <img src="https://badgen.net/badge/repo/repository/white?icon=github&label">
     </a>
 </p>
 
 <br/>
 <br/>
 
-## TypeScript/JavaScript
+### TypeScript/JavaScript
 
-<p align="center">
-  <img alt="preview" src="https://i.ibb.co/tQC6gFL/Typescript.png"/>
-</p>
+---
 
-<br/>
-
-## HTML
-
-<p align="center">
-  <img alt="preview" src="https://i.ibb.co/88PPRDD/HTML.png">
-</p>
+  <img alt="ts-preview" src="screenshots/ts.png" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
 
 <br/>
 
-## CSS
+### HTML
 
-<p align="center">
-  <img alt="preview" src="https://i.ibb.co/x2MDhXd/CSS.png">
-</p>
+---
 
-<br/>
-
-## JSON
-
-<p align="center">
-  <img alt="preview" src="https://i.ibb.co/XDT3RPH/JSON.png">
-</p>
+<img alt="html-preview" src="screenshots/html.png" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
 
 <br/>
-<br/>
 
+### SCSS/CSS
+
+---
+
+<img alt="scss-preview" src="screenshots/scss.png" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
+
+<br/>
+<br/>
+---
 ## Font
 
-The font that I used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
+- The font that I used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/) (which supports font ligatures).
 
 <br/>
 <br/>
@@ -73,3 +65,9 @@ The font that I used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/
   "editor.minimap.enabled": false,
 }
 ```
+
+## Other extensions used
+
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)

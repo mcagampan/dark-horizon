@@ -19,7 +19,7 @@
     "color": "#0e0e0e",
     "theme": "dark"
   },
-  "icon": "logo.png",
+  "icon": "logo2.png",
   "categories": [
     "Themes"
   ],
@@ -34,7 +34,9 @@
     "black theme",
     "red",
     "red theme",
-    "high contrast"
+    "high contrast",
+    "elegant",
+    "elegant theme"
   ],
   "contributes": {
     "themes": [
