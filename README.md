@@ -42,16 +42,12 @@
 
 <br/>
 <br/>
----
 
-## Font
+# Font
 
 - The font that I used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/) (which supports font ligatures).
 
-<br/>
-<br/>
-
-## Other settings used
+# Other settings used
 
 ```
 {
@@ -67,7 +63,7 @@
 }
 ```
 
-## Other extensions used
+# Other extensions used
 
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
