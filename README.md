@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://badgen.net/badge/release/0.3.5/white"
+    <img src="https://badgen.net/badge/release/0.4.0/white"
          alt="release">
     <img src="https://badgen.net/badge/installs/246/white" alt="installs">
     <a href="https://github.com/mcagampan/dark-horizon">
@@ -22,7 +22,7 @@
 
 ---
 
-  <img alt="ts-preview" src="screenshots/ts.png" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
+  <img alt="ts-preview" src="https://i.imgur.com/RAvXojT.png" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ---
 
-<img alt="html-preview" src="screenshots/html.png" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
+<img alt="html-preview" src="https://i.imgur.com/FrIg67z.png" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
 
 <br/>
 
@@ -38,11 +38,12 @@
 
 ---
 
-<img alt="scss-preview" src="screenshots/scss.png" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
+<img alt="scss-preview" src="https://i.imgur.com/XJqOByq.png" style="box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);"/>
 
 <br/>
 <br/>
 ---
+
 ## Font
 
 - The font that I used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/) (which supports font ligatures).
