@@ -2,7 +2,7 @@
   "name": "dark-horizon",
   "displayName": "Dark Horizon",
   "description": "An elegant dark theme with vibrant foreground colors.",
-  "version": "0.3.5",
+  "version": "0.4.0",
   "author": "Michael Cagampan <mcagampan@outlook.com>",
   "publisher": "mcagampan",
   "engines": {
