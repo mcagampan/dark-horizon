@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-    <img src="https://badgen.net/badge/release/0.4.1/white"
+    <img src="https://badgen.net/badge/release/0.4.2/white"
          alt="release">
-    <img src="https://badgen.net/badge/installs/246/white" alt="installs">
+    <img src="https://badgen.net/badge/installs/1872/white" alt="installs">
     <a href="https://github.com/mcagampan/dark-horizon">
       <img src="https://badgen.net/badge/repo/repository/white?icon=github&label">
     </a>
