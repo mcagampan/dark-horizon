@@ -130,7 +130,7 @@
     "terminal.ansiYellow": "#FAB795",
     "terminal.selectionBackground": "#6C6F934D",
     "terminalCursor.background": "#D5D8DA",
-    "terminalCursor.foreground": "#6C6F9380",
+    "terminalCursor.foreground": "#ffffffd7",
     "debugToolBar.background": "#1C1E26",
     "walkThrough.embeddedEditorBackground": "#232530",
     "gitDecoration.addedResourceForeground": "#27D797B3",
